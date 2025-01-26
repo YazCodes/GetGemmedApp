@@ -20,6 +20,9 @@ This project is my first experience working with Expo's bare workflow, iOS-speci
 - **React Native Vision Camera**: Implements advanced camera features and frame processing.
 - **Real-Time Face Detection**: (Planned feature) Detects facial landmarks to overlay tooth gem designs.
 
+  ![IMG_9514](https://github.com/user-attachments/assets/29d74366-2d84-4e12-a5d8-ff8179782c30)
+
+
 ---
 
 ## Learning Highlights
